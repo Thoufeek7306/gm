@@ -1,0 +1,159 @@
+body{
+ 
+  
+    background: rgb(18, 18, 18);
+    color: #fff;
+
+}
+
+
+#title {
+
+    line-height: 3rem;
+    font-family: 'Montserrat', sans-serif;
+}
+#NavBars{
+    align-items: center;
+}
+
+.navbar-brand {
+  
+font-family: 'Montserrat Alternates', sans-serif;
+        font-size: 2.5rem;
+        font-weight: bolder;
+        color: #fff;   
+    }
+    .navbar-brand:hover{
+        color: #F32424;
+    }
+    .nav-link:hover{
+       
+        background: rgb(18, 18, 18);
+        border-radius: 50%;
+    }
+    
+    
+    .nav-item {
+        padding: 0 18px; 
+          
+    }
+    nav .navbar-nav li a{
+        color: #fff !important;
+        
+        }
+    
+    .nav-link {
+        font-size: 1.2rem; 
+    }
+    .dropdown-item:hover{
+      background-color: #1B2430;
+    }
+
+    .dropdown-menu{
+        background-color: #191A19;
+    }
+
+    .Header{
+        margin-left: 15%;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+    .fa-solid {
+        color: yellow;
+    }
+
+    .img-fluid {
+        max-width: 100%;
+        height: auto;
+        overflow: hidden;
+    }
+    #carouselExampleIndicators{
+    max-width: 800px;
+    margin-left: 150px;
+    /* position: absolute; */
+    
+    }
+    img{
+      overflow: hidden;
+    }
+
+   
+    .card-body{
+        text-align: center;
+        
+        background: rgb(18, 18, 18);
+        height: 300px;
+        
+    }
+    .card{
+        margin-left :20px;
+        margin-bottom:10px;
+       
+        background: rgb(18, 18, 18);
+       
+       
+    }
+    .Details{
+        
+        float:right;
+        margin-right: 200px;
+        margin-top: -450px;
+    }
+    .btn{
+        margin-top: 10px;
+        width:100%;
+    }
+
+    .footer-details{
+        margin-top: 20px;
+        color: grey;
+        
+    }
+    .Abouts{
+        margin-top: 40px;
+        margin-left: 100px;
+     
+    }
+    .Abouts-Text{
+        line-height: 35px;
+    }
+    .Abouts-para{
+        font-size: 0.9rem;
+        color: gray;
+    }
+    .footer-section{
+
+        width: 100%;
+        height: 400px;
+        background: rgb(28, 28, 28);;
+        color: rgb(245, 245, 245);
+    }
+   .fa-brands{
+    margin-top: 30px;
+    margin-left: 30px;
+   }
+   .facebook:hover{
+    color: #F32424;
+   }
+   .footer-details{
+    margin-left: 40px;
+   }
+   .Footer-link{
+    margin-right: 30px;
+    text-decoration: none;
+    padding-left: 30px;
+    font-size: 0.8rem;
+    color: rgb(245, 245, 245);
+   }
+   hr{
+    width: 50%;
+    margin: auto;
+    margin-top: 40px;
+   }
+   .para{
+    margin-top: 20px;
+    margin-left: 40px;
+    font-size: 0.8rem;
+    color: gray;
+   }

@@ -1,0 +1,124 @@
+body {
+    background: rgb(28, 28, 28);;
+    color: #fff ;
+    text-align: center;
+    line-height: 3rem;
+}
+#title {
+
+    line-height: 3rem;
+    font-family: 'Montserrat', sans-serif;
+}
+#NavBars{
+    align-items: center;
+}
+
+.navbar-brand {
+  
+font-family: 'Montserrat Alternates', sans-serif;
+        font-size: 2.5rem;
+        font-weight: bolder;
+        color: #fff;   
+    }
+    .navbar-brand:hover{
+        color: #F32424;
+    }
+    .nav-link:hover{
+        background-color: rgb(28, 28, 28);;
+        border-radius: 50%;
+    }
+    
+    
+    .nav-item {
+        padding: 0 18px; 
+          
+    }
+    nav .navbar-nav li a{
+        color: #fff !important;
+        
+        }
+    
+    .nav-link {
+        font-size: 1.2rem; 
+    }
+    .dropdown-item:hover{
+      background-color: #1B2430;
+    }
+
+    .dropdown-menu{
+        background-color: #191A19;
+    }
+    
+
+    .card-body{
+        text-align: center;
+        background: rgb(28, 28, 28);;
+    }
+    .card{
+        margin-left :20px;
+        margin-bottom:10px;
+        background: rgb(28, 28, 28);;
+    }
+    img{
+        transition: 0.4s ease-in-out;
+    }
+    img:hover {
+        transform: scale(1.1);
+    }
+   section{
+       display: flex;
+   }
+
+   .imaag{
+       width: 100%;
+       height: 350px;
+   border-radius: 15px;
+       overflow: hidden;
+   }
+#Container-Section{
+ 
+    margin-top: 50px;
+
+}
+
+.Header-Section{
+    margin: auto;
+    width: 50%;
+    border: 3px solid red;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+ 
+.footer-section{
+
+    width: 100%;
+    height: 400px;
+    background: rgb(28, 28, 28);;
+    color: rgb(245, 245, 245);
+}
+.fa-brands{
+margin-top: 30px;
+margin-left: 30px;
+}
+.footer-details{
+margin-left: 40px;
+}
+.Footer-link{
+margin-right: 30px;
+text-decoration: none;
+padding-left: 30px;
+font-size: 0.8rem;
+color: rgb(245, 245, 245);
+}
+hr{
+width: 50%;
+margin: auto;
+margin-top: 40px;
+}
+.para{
+margin-top: 20px;
+margin-left: 40px;
+font-size: 0.8rem;
+color: gray;
+}
